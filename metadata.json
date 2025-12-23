@@ -1,0 +1,7 @@
+{
+  "name": "Kenmark ITan Solutions AI Assistant",
+  "description": "A professional AI-powered virtual assistant for Kenmark ITan Solutions, providing support for services, training, and company inquiries.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
